@@ -1,0 +1,19 @@
+﻿
+> elampillaisharvatex@0.0.0 lint
+> eslint .
+
+
+C:\Users\DELL\OneDrive\Desktop\elampillaisharvatex\src\pages\AdminDashboard.jsx
+   97:9   error  'parsedSpecs' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+   98:16  error  'err' is defined but never used                                                              no-unused-vars
+  113:15  error  'data' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u         no-unused-vars
+
+C:\Users\DELL\OneDrive\Desktop\elampillaisharvatex\src\pages\Collections.jsx
+   94:18  error    'e' is defined but never used                                                                                           no-unused-vars
+  109:6   warning  React Hook useEffect has a missing dependency: 'placeholderProducts'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\DELL\OneDrive\Desktop\elampillaisharvatex\src\pages\Home.jsx
+  34:18  error  'e' is defined but never used  no-unused-vars
+
+Γ£û 6 problems (5 errors, 1 warning)
+
